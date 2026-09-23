@@ -24,5 +24,5 @@ Everything here is also on crates.io, so `cargo install ptxlint` works just as w
 `url` points at a release tag and `sha256` is the hash of that tarball:
 
 ```shell
-$ curl -sL https://github.com/rustq/ptxlint/archive/refs/tags/v0.0.3.tar.gz | shasum -a 256
+$ curl -sL https://github.com/rustq/ptxlint/archive/refs/tags/v0.0.4.tar.gz | shasum -a 256
 ```

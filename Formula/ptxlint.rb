@@ -1,8 +1,8 @@
 class Ptxlint < Formula
   desc "Static analysis and lints for NVIDIA PTX, no GPU needed"
   homepage "https://github.com/rustq/ptxlint"
-  url "https://github.com/rustq/ptxlint/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "d4ebe21be129434464384e3d670a94f55a8651b7788e2bdc8ba94d125f673bc6"
+  url "https://github.com/rustq/ptxlint/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "a5d5b20eae6a691c96474613fe81f5d4360602162951752240149d30bd5d5929"
   license "MIT"
   head "https://github.com/rustq/ptxlint.git", branch: "main"
 
